@@ -12,10 +12,11 @@ Jupyter Notebook that:**
 - Python 3.7 or higher
 - Jupyter Notebook or JupyterLab
 - Internet connection (for yfinance API)
-  **Clone the repository:**
+
+**Clone the repository:**
 ```bash
 git clone https://github.com/hongyaw/tesla-gamestop-analysis.git
 cd tesla-gamestop-analysis
 
-**Author**
+
 Hong Yaw (IBM Skills Network Course Participant)
