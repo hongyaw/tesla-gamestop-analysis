@@ -16,8 +16,8 @@ Jupyter Notebook that:**
 ## Clone the repository:
 
 ```bash
-git clone https://github.com/hongyaw/tesla-gamestop-analysis.git
-cd tesla-gamestop-analysis
+https://github.com/hongyaw/tesla-gamestop-analysis.git
 ```
 ## Author
-Hong Yaw (IBM Skills Network Course Participant)
+Quek Hong Yaw
+UCSI University
