@@ -20,4 +20,4 @@ https://github.com/hongyaw/tesla-gamestop-analysis.git
 ```
 ## Author
 Quek Hong Yaw
-UCSI University
+(UCSI University)
