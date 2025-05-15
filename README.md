@@ -21,8 +21,7 @@ This project is part of the IBM Data Science course lab. It uses yfinance and we
 5. plotly
 6. matplotlib 
 
-**📌 Instructions**
-**To run this notebook:**
+**📌 Instructions to run this notebook:**
 1. Clone the repo or download the .ipynb file
 2. Install required libraries:
 -yfinance pandas bs4 plotly
