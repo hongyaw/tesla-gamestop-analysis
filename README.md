@@ -22,7 +22,7 @@ This project is part of the IBM Data Science course lab. It uses yfinance and we
 6. matplotlib 
 
 **📌 Instructions**
-To run this notebook:
+**To run this notebook:**
 1. Clone the repo or download the .ipynb file
 2. Install required libraries:
 -yfinance pandas bs4 plotly
